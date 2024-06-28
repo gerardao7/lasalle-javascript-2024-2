@@ -10,6 +10,9 @@ Para PRACTICAR:
 - css.dinner
 - grid garden
 
-menti.com
+[menti.com] (http:menti.com)
 
 
+
+
+compilados = te empaqueta la informacion, la lee y traduce al lenguaje que entiende el ordenador.
