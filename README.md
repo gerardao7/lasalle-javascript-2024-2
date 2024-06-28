@@ -2,7 +2,7 @@
 Apuntes de la segunda edicion de La Salle
 
 WEBS IMPORTANTES:
-W3 schools.com
+W3 schools.com "World Wide Web Consortium"
 Instagram.com/davidm_ai
 
 Para PRACTICAR:
@@ -15,4 +15,5 @@ Para PRACTICAR:
 
 
 
-compilados = te empaqueta la informacion, la lee y traduce al lenguaje que entiende el ordenador.
+Compilados = te empaqueta la informacion, la lee y traduce al lenguaje que entiende el ordenador.
+Interpretado = lee linea a linea.
