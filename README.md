@@ -6,7 +6,7 @@ W3 schools.com
 Instagram.com/davidm_ai
 
 Para PRACTICAR:
-- Flexbox froggy
+- [Flexbox froggy](http:....)
 - css.dinner
 - grid garden
 
